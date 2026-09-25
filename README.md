@@ -19,7 +19,7 @@
 ### Technologies & Tools
 - Spring Boot
 - React.js
-- Bootstrap
+- Tailwind CSS
 - MySQL
 - MongoDB
 - JDBC
