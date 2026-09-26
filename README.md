@@ -72,7 +72,3 @@
 🔗 LinkedIn: [www.linkedin.com/in/biswajit-rout-b04014411](https://www.linkedin.com/in/biswajit-rout-b04014411/)
 
 🔗 GitHub: https://github.com/biswajitrout1
-
----
-
-⭐ "Always learning, always building."
