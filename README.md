@@ -1,14 +1,15 @@
 # Hi 👋, I'm Biswajit Rout
 
-💻 Aspiring Java Full Stack Developer  
-🌱 Currently learning Spring Boot, React.js, and Backend Development  
-🚀 Passionate about building scalable and user-friendly web applications  
+💻 Aspiring Java Full Stack Developer
+🌱 Currently learning Spring Boot, React.js, and Backend Development
+🚀 Passionate about building scalable and user-friendly web applications
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 - Java
 - JavaScript
 - SQL
@@ -17,6 +18,7 @@
 - C
 
 ### Technologies & Tools
+
 - Spring Boot
 - React.js
 - Tailwind CSS
@@ -28,6 +30,7 @@
 - GitHub
 
 ### Fundamentals
+
 - Data Structures & Algorithms
 - OOP
 - DBMS
@@ -37,35 +40,39 @@
 
 ## 📌 Projects
 
-### 🎓 E-Learning Management System
-- Developed a learning management system to manage attendance, marks, GPA, timetable, and academic records.
-- Implemented role-based access for Admin, Lecturer, Officer, and Student modules.
-- Built backend functionality using Java Servlet, JDBC, and MySQL.
+### 💻 CodeGear – Real-Time Mock Interview Platform
+
+- Developed a full-stack real-time mock interview platform for interviewers and candidates.
+- Implemented JWT authentication and role-based authorization.
+- Built REST APIs for interview creation, room management, candidate joining, scoring, and notifications.
+- Implemented real-time communication using WebSocket and STOMP.
+- Integrated WebRTC for real-time audio/video communication.
+- Added online code execution workflow for programming assessments.
+
+🔗 https://github.com/biswajitrout1/Real-Time-Interview-Collaborative-Coding-Platform
+
+---
 
 ### 💼 Online Job Portal
-- Developed a full-stack job portal application for job posting and job searching.
-- Implemented secure authentication and role-based access for Admin and Users.
-- Built REST APIs and backend services using Spring Boot with MySQL integration.
+
+- Developed a web-based job portal for job seekers and recruiters.
+- Implemented role-based access for Admin, Recruiter, and Job Seeker.
+- Added job posting, searching, applying, and job management features.
+- Built backend functionality using Java Servlets, JSP, JDBC, and MySQL.
+- Implemented resume upload, profile management, and OTP-based password recovery using JavaMail.
+
+🔗 https://github.com/biswajitrout1/Online-Job-Portal
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: biswajitrout132413@gmail.com  
+📧 Email: [biswajitrout132413@gmail.com](mailto:biswajitrout132413@gmail.com)
 
-🔗 LinkedIn: www.linkedin.com/in/biswajit-rout-61130b291
+🔗 LinkedIn: [www.linkedin.com/in/biswajit-rout-b04014411](https://www.linkedin.com/in/biswajit-rout-b04014411/)
 
 🔗 GitHub: https://github.com/biswajitrout1
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
----
-
-⭐ “Always learning, always building.”
+⭐ "Always learning, always building."
