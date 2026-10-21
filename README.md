@@ -1,6 +1,6 @@
 # Hi 👋, I'm Biswajit Rout
 
-💻 Aspiring Java Full Stack Developer 🌱 Currently learning Spring Boot, React.js, Backend Development, and AI Integrations 🚀 Passionate about building scalable web applications and developer infrastructure tooling
+💻 Aspiring Java Full Stack Developer 🌱 Currently learning Spring Boot, React.js, Backend Development, and AI Integrations 🚀 Passionate about building scalable web applications ai automations and developer infrastructure tooling
 
 🛠️ Tech Stack
 
